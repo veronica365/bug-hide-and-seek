@@ -1,0 +1,120 @@
+<a name="readme-top"></a>
+
+<div align="center">
+  <h3><b>Portfolio</b></h3>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [📝 License](#license)
+
+# 📖 [Portfolio] <a name="about-project"></a>
+
+**[Portfolio]** is an exercise on day three to day five built with HTML and CSS to demostrate the usage of Flexbox, images and backgrounds and Figma
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://web.dev/learn/css/?gclid=EAIaIQobChMIsdaclZC9_AIViIjVCh2zoAV1EAAYASAAEgJf5PD_BwE">HTML and CSS</a></li>
+  </ul>
+</details>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[Has an a top bar with a hambugger button and My Logo]**
+- **[Has a section that describes details about my name, work and what I can help with]**
+- **[Has a section with link to connect with me via socialmedia]**
+- **[Has a section with details about my works]**
+- **[Has a section with details of about myself]**
+- **[Has a contact me form with fields to submit and contact me]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://veronica365.github.io/portfolio/)
+
+## 🚀 Project Outline <a name="project-outline"></a>
+
+- [Project Outline Link](https://www.loom.com/share/158018931431454f8353f75a0d628aa1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- A [browser](https://www.google.com/search?q=what+is+a+browser&oq=what+is+a+browser&aqs=chrome..69i57.2748j0j1&sourceid=chrome&ie=UTF-8) of your choice
+- That you have set up Git on you desired computer
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd your-desired-folder
+  git clone git@github.com:veronica365/portfolio.git
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+- open the repo folder `portfolio`
+- Rightclick on the index.html file and select open in the browser
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@verocnica365](https://github.com/verocnica365)
+
+👤 **Author2**
+
+- GitHub: [@Luchy-B](https://github.com/Luchy-B)
+
+👤 **Author3**
+
+- GitHub: [@ybadr99](https://github.com/ybadr99)
+
+👤 **Author4**
+
+- GitHub: [@arnold-O](https://github.com/arnold-O)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
